@@ -8,10 +8,10 @@ Jakarta Server Pages (jsp)
  - Java code can be written in jsp pages using [tags](#Tags)
 
 ### Tags:
-    1. [Directive](#Directives)
-    2. [Declarative](#Declarative)
-    3. [Scriptlet](#Scriptlet)
-    4. [Expression](#Expression)
+ - [Directive](#Directives)
+ - [Declarative](#Declarative)
+ - [Scriptlet](#Scriptlet)
+ - [Expression](#Expression)
 
 #### Directives 
  - for importing packages, specifying something at page level, anything at top-level of servlet/jsp 
