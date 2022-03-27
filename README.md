@@ -15,7 +15,7 @@ Jakarta Server Pages (jsp)
 
 #### Directives 
  - for importing packages, specifying something at page level, anything at top-level of servlet/jsp 
- - `<%@ %>`
+ - Notation: `<%@ %>`
  - Directives
      - @page -> specify attributes for entire page  
      - Sample attributes and values:
@@ -41,15 +41,15 @@ Jakarta Server Pages (jsp)
  
 #### Declarative
  - for any Java code inside of servlet method but outside of service method
- - `<%! %>`
+ - Notation: `<%! %>`
 
 #### Scriptlet:
  - for any Java code inside of service() method
- - `<% %>`
+ - Notation: `<% %>`
 
 #### Expression:
  - for assignment
- - `<%= %>`
+ - Notation: `<%= %>`
  
 ### Implicit Objects:
  - These are the objects that are implicitly provided in jsp pages
