@@ -5,7 +5,7 @@ Jakarta Server Pages (jsp)
 ### Working:
  - Everything that is written inside of a servlet can be written in jsp pages.
  - When application runs, jsp pages are converted to Servlets.
- - Java code can be written in jsp pages using tags [Refer Tags Section](#Tags)
+ - Java code can be written in jsp pages using tags [Refer Tags Section](#Run)
 
 ### Tags:
     1. Directive
@@ -65,3 +65,7 @@ Jakarta Server Pages (jsp)
     8. Object page = this;
     9. JspWriter _jspx_out = null;
     10. PageContext _jspx_page_context = null;
+
+### Run:
+ - Add mysql-connector-java-8.0.27.jar lib under WEB-INF
+ - Tomcat Server is required to run the application
