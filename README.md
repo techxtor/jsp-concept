@@ -5,13 +5,13 @@ Jakarta Server Pages (jsp)
 ### Working:
  - Everything that is written inside of a servlet can be written in jsp pages.
  - When application runs, jsp pages are converted to Servlets.
- - Java code can be written in jsp pages using tags [Refer Tags Section](#Run)
+ - Java code can be written in jsp pages using tags [Refer Tags Section](#Tags)
 
 ### Tags:
-    1. Directive
-    2. Declarative
-    3. Scriptlet
-    4. Expression
+    1. [Directive](#Directives)
+    2. [Declarative](#Declarative)
+    3. [Scriptlet](#Scriptlet)
+    4. [Expression](#Expression)
 
 #### Directives 
  - for importing packages, specifying something at page level, anything at top-level of servlet/jsp 
